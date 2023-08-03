@@ -1,0 +1,8 @@
+{
+  "name": "patro",
+  "description": "nepali calendar for gnome",
+  "uuid": "com.rabinniroula.patro",
+  "shell-version": [
+    "44"
+  ]
+}
